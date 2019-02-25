@@ -1,3 +1,4 @@
 # MOM6-notes
-MOM6 notes 
-[coupon](https://drive.google.com/file/d/0B2AcAqF7alZGRUJCenRsSVhUX1g0UnJxNFRwWFFROGdZSG5z/view?usp=sharing)
+MOM6 hgrid description
+[https://gist.github.com/adcroft/c1e207024fe1189b43dddc5f1fe7dd6c](https://gist.github.com/adcroft/c1e207024fe1189b43dddc5f1fe7dd6c)
+
