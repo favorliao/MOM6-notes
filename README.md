@@ -4,3 +4,6 @@ MOM6 hgrid description
 
 MOM6 Cgrid (H point and C point) description
 [https://mom6.readthedocs.io/en/latest/api/generated/modules/mom_grid.html](https://mom6.readthedocs.io/en/latest/api/generated/modules/mom_grid.html)
+
+MOM6 diagnostics configurations  
+[https://mom6.readthedocs.io/en/latest/api/generated/pages/Diagnostics.html](https://mom6.readthedocs.io/en/latest/api/generated/pages/Diagnostics.html)
