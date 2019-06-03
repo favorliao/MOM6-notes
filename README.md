@@ -6,4 +6,6 @@ MOM6 Cgrid (H point and C point) description
 [https://mom6.readthedocs.io/en/latest/api/generated/modules/mom_grid.html](https://mom6.readthedocs.io/en/latest/api/generated/modules/mom_grid.html)
 
 MOM6 diagnostics configurations  
+The strings %yr, %mo, %dy, %hr %mi, %sc are expanded to the current year, month, day, hour, minute and second respectively   
+
 [https://mom6.readthedocs.io/en/latest/api/generated/pages/Diagnostics.html](https://mom6.readthedocs.io/en/latest/api/generated/pages/Diagnostics.html)
