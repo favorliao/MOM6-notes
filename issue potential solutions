@@ -1,2 +1,2 @@
 "Integer overflow in days in increment_time"
-If MOM6 report this issue, one potential issue is the time of the input file is wrong.
+If MOM6 report this issue, one potential reason is the time of one of the input file is wrong.
