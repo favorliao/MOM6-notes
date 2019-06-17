@@ -9,3 +9,6 @@ MOM6 diagnostics configurations
 The strings %yr, %mo, %dy, %hr %mi, %sc are expanded to the current year, month, day, hour, minute and second respectively   
 
 [https://mom6.readthedocs.io/en/latest/api/generated/pages/Diagnostics.html](https://mom6.readthedocs.io/en/latest/api/generated/pages/Diagnostics.html)
+
+MOM6 input files download:
+[ftp://ftp.gfdl.noaa.gov/perm/Alistair.Adcroft/MOM6-testing/](ftp://ftp.gfdl.noaa.gov/perm/Alistair.Adcroft/MOM6-testing/)
