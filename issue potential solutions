@@ -1,2 +1,5 @@
-"Integer overflow in days in increment_time"
-If MOM6 report this issue, one potential reason is the time of one of the input file is wrong.
+1. "Integer overflow in days in increment_time"
+    If MOM6 report this issue, one potential reason is the time of one of the input file is wrong.
+
+2. If the model is staying at some specific time, but still running and no error message come out.
+   This is most probabaly the iceberge issue. Remove iceberg from restart file or check iceberg result.
